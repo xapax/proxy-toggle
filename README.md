@@ -20,7 +20,7 @@ If you want other settings you need to disable the extension.
 It will not work in version below 60 in firefox.
 
 Can be installed here:
-https://addons.mozilla.org/en-US/firefox/addon/ptoggle/
+https://addons.mozilla.org/addon/ptoggle/
 
 Or from here:
 wget https://github.com/xapax/proxy-toggle/raw/master/proxy_toggle-1.0-an+fx.xpi
